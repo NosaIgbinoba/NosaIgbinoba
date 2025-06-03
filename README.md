@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nosa Igbinoba 👋</h1>
-<h3 align="center">A Passionate Software Developer Based in Ireland 🇮🇪</h3>
+<h3 align="center">A Passionate Software Engineer Based in Ireland 🇮🇪</h3>
 
 ---
 
